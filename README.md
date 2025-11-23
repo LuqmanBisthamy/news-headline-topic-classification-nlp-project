@@ -144,15 +144,20 @@ Topic Classification Of News Headlines Using TF-IDF with SVM, LR, RF, and Fine-T
 ---
 
 ## 🧩 Project Workflow Diagram
-[ Data Loading ]
-        ↓
-[ Text Cleaning ]
-        ↓
-[ TF-IDF / BERT Tokenization ]
-        ↓
-[ Model Training ]
-        ↓
-[ Evaluation & Comparison ]
+
+<p align="center">
+
+  <strong>[ Data Loading ]</strong>  
+  ↓  
+  <strong>[ Text Cleaning ]</strong>  
+  ↓  
+  <strong>[ TF-IDF / BERT Tokenization ]</strong>  
+  ↓  
+  <strong>[ Model Training ]</strong>  
+  ↓  
+  <strong>[ Evaluation & Comparison ]</strong>
+
+</p>
 
 ---
 

@@ -31,13 +31,16 @@ The experiment determines whether traditional vectorization (TF-IDF) or transfor
 ---
 
 ## 🧬 Dataset
-The dataset consists of short news headlines paired with topic labels.  
-Each sample includes:
+The original training dataset is **not included in this repository** because of GitHub’s file size limits.
 
+📌 You can download the full training dataset from Kaggle: 
+👉 https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset/data
+
+Each sample includes:
 - **text** → the headline  
 - **category** → topic label (target)
-
-Train and test splits are provided as `train.csv` and `test.csv`.
+ 
+Test splits are provided as `test.csv`.
 
 ---
 
